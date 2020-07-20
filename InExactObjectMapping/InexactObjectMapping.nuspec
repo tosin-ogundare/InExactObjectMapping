@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>InexactObjectMapper</id>
+    <version>1.0.0</version>
+    <title>Inexact object mapping</title>
+    <authors>Tosin Ogundare</authors>
+    <owners>Tosin Ogundare</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/tosin-ogundare/InExactObjectMapping</projectUrl>
+    <description>Provides fast copy of matching property values between different reference types.</description>
+    <copyright>Copyright 2020</copyright>
+  </metadata>
+</package>
